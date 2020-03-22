@@ -38,3 +38,8 @@ $ cd ~/ebooks
 $ head -n 3447 hamlet.txt | tail -n 1
 Is thought-sicke at the act
 
+5. 
+$ cd ~/ebooks
+$ grep -i hamlet hamlet.txt | wc -l
+109
+

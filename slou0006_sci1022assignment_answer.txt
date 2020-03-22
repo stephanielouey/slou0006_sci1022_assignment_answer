@@ -6,6 +6,21 @@ $ curl http://www.gutenberg.org/cache/epub/2265/pg2265.txt -o hamlet.txt
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  180k  100  180k    0     0  90929      0  0:00:02  0:00:02 --:--:-- 90974
+$ tree ~
+/home/slou0006
+├── Documents
+│   ├── $RECYCLE.BIN
+│   │   └── desktop.ini
+│   ├── Custom Office Templates
+│   ├── desktop.ini
+│   ├── myproject
+│   │   ├── file1.txt
+│   │   ├── file2.txt
+│   │   └── README.md
+│   └── slou0006_sci1022_assignment_answer
+│       └── slou0006_sci1022assignment_answer.txt
+└── ebooks
+    └── hamlet.txt
 
 2.
 $ cd /usr/lib
